@@ -1,6 +1,12 @@
 .topbar {
     background: #316DC3 !important;
 }
+.headline {
+    background: #316dc3;
+    padding: 12px 0 0 0;
+    text-align: center;
+    color: #fff;
+}
 .topbar ul {
     list-style: none;
     padding: 0;
